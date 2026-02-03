@@ -46,3 +46,4 @@ title('Phase Spectrum');
 
 
 # RESULT: 
+Thus, the Discrete Fourier Transform and Fast Fourier Transform of the given sequence was obtained and its magnitude and phase spectrum were plotted
